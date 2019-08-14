@@ -6,6 +6,5 @@ public class ExerciseFour {
             sum = (int) (sum + Math.pow(i, 2));
         }
         System.out.println("The sum of the square of the first 100 integers is: " + sum);
-        System.out.println("test");
     }
 }
