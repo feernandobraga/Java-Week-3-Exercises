@@ -22,3 +22,6 @@ Some more simple exercises coded on week 3
     * Write a program that prompts the user to input an integer between 0 and 35. 
     If the number is less than or equal to 9, the program should output the number; 
     otherwise, it should output A for 10, B for 11, C for 12, ... and Z for 35.
+    
+- Exercise 4:
+    * Write a Java program to compute the sum of the squares of the first 100 integers.
