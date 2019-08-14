@@ -32,8 +32,10 @@ Some more simple exercises coded on week 3
     
 - Exercise 6:
     * You have several pictures of different sizes that you would like to frame. 
-    A local picture framing store offers two types of frames-regular and fancy. The frames are available in white and can be ordered in any color the customer desires. 
-    Suppose that each frame is 1 inch wide. The cost of coloring the frame is $0.10 per inch. The cost of a regular frame is $0.15 per inch and the cost of a fancy frame is $0.25 per inch. 
+    A local picture framing store offers two types of frames-regular and fancy. 
+    The frames are available in white and can be ordered in any color the customer desires. 
+    Suppose that each frame is 1 inch wide. The cost of coloring the frame is $0.10 per inch. 
+    The cost of a regular frame is $0.15 per inch and the cost of a fancy frame is $0.25 per inch. 
     The customer can also choose to put crowns on the corners, which costs $0.35 per crown. 
     Write a program that prompts the user to input the following information and then output the cost of framing the picture:
       *  a. The length and width, in inches, of the picture.
