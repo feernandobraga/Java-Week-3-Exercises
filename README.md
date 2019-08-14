@@ -40,3 +40,12 @@ Some more simple exercises coded on week 3
       *  b. The type of the frame.
       *  c. Customer's choice of color to color the frame.
       *  d. If the user wants to add the crowns, then the number of crowns.
+      
+- Exercise 7:
+    * Write a program that uses while loops to perform the following steps:
+        * a. Prompt the user to input 'two integers: firstNum and secondNum. (firstNum must be less than secondNum.)
+        * b. Output all the odd numbers between firstNum and secondNum inclusive.
+        * c. Output the sum of all the even numbers between firstNum and second.Num inclusive.
+        * d. Output all the numbers and their squares between 1 and 10.
+        * e. Output the sum of the squares of all the odd numbers between firstNum and secondNum inclusive.
+        * f. Output all the uppercase letters.
