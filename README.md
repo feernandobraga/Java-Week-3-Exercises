@@ -26,3 +26,6 @@ Some more simple exercises coded on week 3
 - Exercise 4:
     * Write a Java program to compute the sum of the squares of the first 100 integers.
     The program also needs to display all the integers between 1 and 100 that are perfect squares.
+
+- Exercise 5:
+    * Write a program that reads an integer, and then finds and prints the whether it is even and odd integers.
